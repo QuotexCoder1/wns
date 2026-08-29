@@ -1,30 +1,84 @@
 {
   "active": true,
   "password_required": true,
-
   "users": {
-
-    "uid_526722": { "name": "1-DilDarAfridiAndroid50$", "password": "Dildar50$" },
-    "uid_603331": { "name": "2-BadshahTrader13kAndroid", "password": "Badshah13k" },
-    "uid_764285": { "name": "MyPc$", "password": "mypc" },
-    "uid_389168": { "name": "1-SaifTraderLaptop18k", "password": "Laptop13k-R" },
-    "uid_666777": { "name": "2-SaifTraderAndroid", "password": "Android13k-R" },
-    "uid_191922": { "name": "UmairTrader8k+4k", "password": "4kpc" },
-    "uid_162553": { "name": "MNKTRADEROFFICIAL-Android-60$", "password": "MnkAndroid60$" },
-    "uid_665723": { "name": "DanyalTraderAndroid30$", "password": "PremiumAll30$" },
-    "uid_383839": { "name": "ELTRADER-PC-LAPTOP-20$", "password": "Both-Laptop-Pc20$" },
-    "uid_950505": { "name": "KHATTAPONTOP40$Android", "password": "Android40$" },
-    "uid_743128": { "name": "KHATTAKONTOP40$Laptop", "password": "Laptop40$" },
-    "uid_147001": { "name": "HASSANTRADERAndroid70$", "password": "HassanTraderAndroid70$" },
-    "uid_504342": { "name": "MalikTraderLaptop13k", "password": "Laptop13k" },
-    "uid_142149": { "name": "TalalIqbal-TWK-Refrence", "password": "13.5k" },
-    "uid_833838": { "name": "DawoodTrader8k", "password": "DwoodTrader8k" },
-    "uid_383883": { "name": "AQTTrader6k", "password": "AQT6k" },
-    "uid_388393": { "name": "TKNAWAZLAPTOP", "password": "AQT6k" },
-    "uid_136830": { "name": "MySamsung", "password": "m" }
-
+    "uid_526722": {
+      "name": "1-DilDarAfridiAndroid50$",
+      "password": "Dildar50$"
+    },
+    "uid_603331": {
+      "name": "2-BadshahTrader13kAndroid",
+      "password": "Badshah13k"
+    },
+    "uid_764285": {
+      "name": "MyPc$",
+      "password": "mypc"
+    },
+    "uid_389168": {
+      "name": "1-SaifTraderLaptop18k",
+      "password": "Laptop13k-R"
+    },
+    "uid_666777": {
+      "name": "2-SaifTraderAndroid",
+      "password": "Android13k-R"
+    },
+    "uid_191922": {
+      "name": "UmairTrader8k+4k",
+      "password": "4kpc"
+    },
+    "uid_162553": {
+      "name": "MNKTRADEROFFICIAL-Android-60$",
+      "password": "MnkAndroid60$"
+    },
+    "uid_665723": {
+      "name": "DanyalTraderAndroid30$",
+      "password": "PremiumAll30$"
+    },
+    "uid_383839": {
+      "name": "ELTRADER-PC-LAPTOP-20$",
+      "password": "Both-Laptop-Pc20$"
+    },
+    "uid_950505": {
+      "name": "KHATTAPONTOP40$Android",
+      "password": "Android40$"
+    },
+    "uid_743128": {
+      "name": "KHATTAKONTOP40$Laptop",
+      "password": "Laptop40$"
+    },
+    "uid_147001": {
+      "name": "HASSANTRADERAndroid70$",
+      "password": "HassanTraderAndroid70$"
+    },
+    "uid_504342": {
+      "name": "MalikTraderLaptop13k",
+      "password": "Laptop13k"
+    },
+    "uid_142149": {
+      "name": "TalalIqbal-TWK-Refrence",
+      "password": "13.5k"
+    },
+    "uid_833838": {
+      "name": "DawoodTrader8k",
+      "password": "DwoodTrader8k"
+    },
+    "uid_383883": {
+      "name": "AQTTrader6k",
+      "password": "AQT6k"
+    },
+    "uid_388393": {
+      "name": "TKNAWAZLAPTOP",
+      "password": "AQT6k"
+    },
+    "uid_136830": {
+      "name": "MySamsung",
+      "password": "m"
+    },
+    "uid_784161": {
+      "name": "AmanTraderPremiumPc10.5kFor-3Month",
+      "password": "AmanTrader10.5k"
+    }
   },
-
   "blocked": [
     "uid_120001",
     "uid_120002",
