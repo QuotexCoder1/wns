@@ -42,10 +42,6 @@
       "name": "KHATTAPONTOP40$Android",
       "password": "Android40$"
     },
-    "uid_147001": {
-      "name": "HASSANTRADERAndroid70$",
-      "password": "HassanTraderAndroid70$"
-    },
     "uid_504342": {
       "name": "MalikTraderLaptop13k",
       "password": "Laptop13k"
@@ -93,6 +89,10 @@
     "uid_638827": {
       "name": "SaifTraderLaptop13kRemaining",
       "password": "Laptop13k-R"
+    },
+    "uid_731853": {
+      "name": "HASSANTRADERAndroid70$",
+      "password": "HassanTraderAndroid70$"
     }
   },
   "blocked": [
