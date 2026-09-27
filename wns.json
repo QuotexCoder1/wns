@@ -70,10 +70,6 @@
       "name": "AmanTraderPremiumPc10.5kFor-3Month",
       "password": "AmanTrader10.5k"
     },
-    "uid_765285": {
-      "name": "Mypc",
-      "password": "m"
-    },
     "uid_526366": {
       "name": "IJAZAFRIDITRADERLAPTOP13K",
       "password": "Laptop13k"
@@ -124,6 +120,10 @@
     },
     "uid_369128": {
       "name": "M",
+      "password": "m"
+    },
+    "uid_303807": {
+      "name": "Mypc",
       "password": "m"
     }
   },
