@@ -62,10 +62,6 @@
       "name": "TKNAWAZLAPTOP",
       "password": "AQT6k"
     },
-    "uid_136830": {
-      "name": "MySamsung",
-      "password": "m"
-    },
     "uid_784161": {
       "name": "AmanTraderPremiumPc10.5kFor-3Month",
       "password": "AmanTrader10.5k"
@@ -124,6 +120,10 @@
     },
     "uid_303807": {
       "name": "Mypc",
+      "password": "m"
+    },
+    "uid_516814": {
+      "name": "MySamsung",
       "password": "m"
     }
   },
