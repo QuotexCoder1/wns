@@ -98,10 +98,6 @@
       "name": "ELT_TRADER_ANDROID45$",
       "password": "e"
     },
-    "uid_540642": {
-      "name": "My",
-      "password": "m"
-    },
     "uid_189584": {
       "name": "UMAIR TRADER 150$ BINANCE+ANDROID+LAPTOP",
       "password": "Android(Premium)"
@@ -129,6 +125,10 @@
     "uid_987854": {
       "name": "YashSirilankan(ios)",
       "password": "y"
+    },
+    "uid_471715": {
+      "name": "My",
+      "password": "m"
     }
   },
   "blocked": [
