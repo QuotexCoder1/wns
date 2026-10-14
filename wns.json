@@ -130,10 +130,6 @@
       "name": "MNK-R-Ali Afridi Trader 15k (IOS PREMIUM)",
       "password": "ios"
     },
-    "uid_897729": {
-      "name": "AmanTraderPremiumPc10.5kFor-3Month(Update)",
-      "password": "AmanTrader10.5k+15$"
-    },
     "uid_478452": {
       "name": "SaifTraderLaptop13k",
       "password": "Laptop"
@@ -141,6 +137,10 @@
     "uid_996637": {
       "name": "HulkTrader(android)",
       "password": "h"
+    },
+    "uid_291384": {
+      "name": "AmanTraderPremiumPc10.5kFor-3Month(Update)",
+      "password": "AmanTrader10.5k+15$"
     }
   },
   "blocked": [
