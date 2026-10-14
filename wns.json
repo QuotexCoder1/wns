@@ -106,10 +106,6 @@
       "name": "Mypc",
       "password": "m"
     },
-    "uid_516814": {
-      "name": "MySamsung",
-      "password": "m"
-    },
     "uid_987854": {
       "name": "YashSirilankan(ios)",
       "password": "y"
@@ -141,6 +137,10 @@
     "uid_291384": {
       "name": "AmanTraderPremiumPc10.5kFor-3Month(Update)",
       "password": "AmanTrader10.5k+15$"
+    },
+    "uid_555343": {
+      "name": "MySamsung",
+      "password": "m"
     }
   },
   "blocked": [
