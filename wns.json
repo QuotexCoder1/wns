@@ -165,6 +165,10 @@
     "uid_00000": {
       "name": "SyedTrader (Premium) 100$ (pc)",
       "password": "p"
+    },
+    "uid_362132": {
+      "name": "SyedTrader (Premium) 100$ (ios)",
+      "password": "i"
     }
   },
   "blocked": [
