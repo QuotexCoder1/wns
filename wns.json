@@ -90,10 +90,6 @@
       "name": "ELT_TRADER_ANDROID45$",
       "password": "e"
     },
-    "uid_189584": {
-      "name": "UMAIR TRADER 150$ BINANCE+ANDROID+LAPTOP",
-      "password": "Android(Premium)"
-    },
     "uid_784190": {
       "name": "Atif-KhanTrader 6k(Premium) Android 1k Remaining]",
       "password": "[Premium]"
@@ -181,6 +177,10 @@
     "uid_783354": {
       "name": "2-JunaidTrader android 8k",
       "password": "a"
+    },
+    "uid_939996": {
+      "name": "UMAIR TRADER 150$ BINANCE+ANDROID+LAPTOP",
+      "password": "Android(Premium)"
     }
   },
   "blocked": [
@@ -202,6 +202,6 @@
     "uid_191922",
     "uid_666777",
     "uid_389168",
-    "uid_189584"
+    "uid_939996"
   ]
 }
